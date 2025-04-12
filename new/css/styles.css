@@ -4,3 +4,11 @@
 .bg-puppy{
     background-color: #d4fbfd !important;
 }
+*{
+    font-family: "Poppins", sans-serif;
+}
+.bg-puppy-primary{
+    background-color: #dcc297;
+    padding: 2em;
+    color: #5f3d3f;
+}
